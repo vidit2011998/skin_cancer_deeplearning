@@ -1,0 +1,17 @@
+item{
+name:"bkl"
+id:1
+display_name:"Benign keratosis lesions"
+}
+
+item{
+name:"df"
+id:2
+display_name:"dermatofibroma"
+}
+
+item{
+name:"mel"
+id:3
+display_name:"melanoma"
+}
